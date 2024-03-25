@@ -1,0 +1,14 @@
+C:\Users\Desktop\SystemPoo\bin\Debug\net8.0\SystemPoo.exe
+C:\Users\Desktop\SystemPoo\bin\Debug\net8.0\SystemPoo.deps.json
+C:\Users\Desktop\SystemPoo\bin\Debug\net8.0\SystemPoo.runtimeconfig.json
+C:\Users\Desktop\SystemPoo\bin\Debug\net8.0\SystemPoo.dll
+C:\Users\Desktop\SystemPoo\bin\Debug\net8.0\SystemPoo.pdb
+C:\Users\Desktop\SystemPoo\obj\Debug\net8.0\SystemPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\SystemPoo\obj\Debug\net8.0\SystemPoo.AssemblyInfoInputs.cache
+C:\Users\Desktop\SystemPoo\obj\Debug\net8.0\SystemPoo.AssemblyInfo.cs
+C:\Users\Desktop\SystemPoo\obj\Debug\net8.0\SystemPoo.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\SystemPoo\obj\Debug\net8.0\SystemPoo.dll
+C:\Users\Desktop\SystemPoo\obj\Debug\net8.0\refint\SystemPoo.dll
+C:\Users\Desktop\SystemPoo\obj\Debug\net8.0\SystemPoo.pdb
+C:\Users\Desktop\SystemPoo\obj\Debug\net8.0\SystemPoo.genruntimeconfig.cache
+C:\Users\Desktop\SystemPoo\obj\Debug\net8.0\ref\SystemPoo.dll
